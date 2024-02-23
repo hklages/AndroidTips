@@ -1,5 +1,5 @@
 # AndroidTips
-Dies ist eine Zusammenstellung nützlicher Tips und Apps. 
+Dies ist eine Zusammenstellung nützlicher Tips und Apps - getested auf einem Google Pixel 7a.
 
 ## Tips
 
